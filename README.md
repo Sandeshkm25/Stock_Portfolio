@@ -31,7 +31,7 @@ Top gainer/loser stocks in portfolio
 
 Backend: Spring Boot (Java)
 
-Database: MySQL / PostgreSQL
+Database: MySQL
 
 Scheduler: Spring @Scheduled (for auto price updates)
 
